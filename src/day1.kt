@@ -1,5 +1,7 @@
 import kotlin.math.abs
 
+// Solution to https://adventofcode.com/2024/day/1
+
 fun main() {
     // Initialization
     val l1 = listOf(3, 4, 2, 1, 3, 3)
